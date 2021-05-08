@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Liang Chen's Homepages
 
 You can use the [editor on GitHub](https://github.com/imjackchen/chenliang.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
